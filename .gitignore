@@ -2,3 +2,4 @@
 /backend/token.json
 
 venv/
+.env
