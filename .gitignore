@@ -1,0 +1,5 @@
+/backend/credentials.json
+/backend/token.json
+
+venv/
+.env
